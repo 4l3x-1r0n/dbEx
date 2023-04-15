@@ -120,48 +120,6 @@
                     }
                 ]
             }
-        },
-        {
-            "carCondition": 3,
-            "createdOn": "2023-04-13T10:30:00Z",
-            "demoOrServiceLoanerLease": false,
-            "expirationDate": "2023-05-13T10:30:00Z",
-            "financeTerm": 60,
-            "id": 3,
-            "leaseTermMin": 36,
-            "leaseTermMax": 48,
-            "maxDownPayment": 7000,
-            "maxMonthlyPayment": 500,
-            "maxPrice": 35000,
-            "milesPerYear": 12000,
-            "originZipCode": "90210",
-            "purchaseType": 1,
-            "searchRadius": 50,
-            "tagType": 2,
-            "tradeEstimatedValue": 15000,
-            "tradeIn": false,
-            "tradeLeased": true,
-            "tradePayOff": 8000,
-            "registerZipCode": "90210",
-            "customerId": 101,
-            "car": {
-                "colorInterior1": "Black",
-                "colorExterior1": "White",
-                "colorInterior2": "",
-                "colorExterior2": "",
-                "hasColorPreference": true,
-                "make": "Honda",
-                "maxYear": 2021,
-                "model": "Accord",
-                "minYear": 2019,
-                "packageOption": 1,
-                "trim": "Sport",
-                "packages": [
-                    {
-                        "name": "Sport package"
-                    }
-                ]
-            }
         }
     ],
     "makes": [
