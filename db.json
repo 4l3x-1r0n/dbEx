@@ -162,48 +162,6 @@
                     }
                 ]
             }
-        },
-        {
-            "carCondition": 1,
-            "createdOn": "2023-04-13T02:20:00Z",
-            "demoOrServiceLoanerLease": false,
-            "expirationDate": "2023-05-13T02:20:00Z",
-            "financeTerm": 12,
-            "id": 4,
-            "leaseTermMin": 24,
-            "leaseTermMax": 36,
-            "maxDownPayment": 1500,
-            "maxMonthlyPayment": 200,
-            "maxPrice": 15000,
-            "milesPerYear": 10000,
-            "originZipCode": "10001",
-            "purchaseType": 1,
-            "searchRadius": 25,
-            "tagType": 1,
-            "tradeEstimatedValue": 8000,
-            "tradeIn": false,
-            "tradeLeased": false,
-            "tradePayOff": 0,
-            "registerZipCode": "10001",
-            "customerId": 1,
-            "car": {
-                "colorInterior1": "Black",
-                "colorExterior1": "White",
-                "colorInterior2": "",
-                "colorExterior2": "",
-                "hasColorPreference": true,
-                "make": "Toyota",
-                "maxYear": 2020,
-                "model": "Camry",
-                "minYear": 2015,
-                "packageOption": 1,
-                "trim": "LE",
-                "packages": [
-                    {
-                        "name": "Convenience Package"
-                    }
-                ]
-            }
         }
     ],
     "makes": [
