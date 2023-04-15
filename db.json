@@ -1,0 +1,419 @@
+{
+    "listings": [
+        {
+            "carCondition": 2,
+            "createdOn": "2023-04-13T09:30:00Z",
+            "demoOrServiceLoanerLease": true,
+            "expirationDate": "2023-05-13T09:30:00Z",
+            "financeTerm": 24,
+            "id": 0,
+            "leaseTermMin": 12,
+            "leaseTermMax": 36,
+            "maxDownPayment": 2000,
+            "maxMonthlyPayment": 275,
+            "maxPrice": 18000,
+            "milesPerYear": 10000,
+            "originZipCode": "10001",
+            "purchaseType": 0,
+            "searchRadius": 25,
+            "tagType": 1,
+            "tradeEstimatedValue": 8000,
+            "tradeIn": true,
+            "tradeLeased": false,
+            "tradePayOff": 5000,
+            "registerZipCode": "10001",
+            "customerId": 123,
+            "car": {
+                "colorInterior1": "black",
+                "colorExterior1": "white",
+                "colorInterior2": "",
+                "colorExterior2": "",
+                "hasColorPreference": true,
+                "make": "Honda",
+                "maxYear": 2022,
+                "model": "Accord",
+                "minYear": 2019,
+                "packageOption": 2,
+                "trim": "Sport",
+                "packages": [
+                    { "name": "Premium Sound System" },
+                    { "name": "Navigation" }
+                ]
+            }
+        },
+        {
+            "carCondition": 3,
+            "createdOn": "2023-04-13T12:45:00Z",
+            "demoOrServiceLoanerLease": false,
+            "expirationDate": "2023-05-13T12:45:00Z",
+            "financeTerm": 36,
+            "id": 1,
+            "leaseTermMin": 24,
+            "leaseTermMax": 48,
+            "maxDownPayment": 5000,
+            "maxMonthlyPayment": 400,
+            "maxPrice": 28000,
+            "milesPerYear": 12000,
+            "originZipCode": "90210",
+            "purchaseType": 1,
+            "searchRadius": 50,
+            "tagType": 2,
+            "tradeEstimatedValue": 12000,
+            "tradeIn": false,
+            "tradeLeased": true,
+            "tradePayOff": 8000,
+            "registerZipCode": "90210",
+            "customerId": 456,
+            "car": {
+                "colorInterior1": "beige",
+                "colorExterior1": "silver",
+                "colorInterior2": "",
+                "colorExterior2": "",
+                "hasColorPreference": true,
+                "make": "Toyota",
+                "maxYear": 2022,
+                "model": "Camry",
+                "minYear": 2018,
+                "packageOption": 1,
+                "trim": "LE",
+                "packages": [{ "name": "Backup Camera" }]
+            }
+        },
+        {
+            "carCondition": 4,
+            "createdOn": "2023-04-13T08:15:00Z",
+            "demoOrServiceLoanerLease": true,
+            "expirationDate": "2023-05-13T08:15:00Z",
+            "financeTerm": 48,
+            "id": 2,
+            "leaseTermMin": 24,
+            "leaseTermMax": 36,
+            "maxDownPayment": 5000,
+            "maxMonthlyPayment": 400,
+            "maxPrice": 28000,
+            "milesPerYear": 10000,
+            "originZipCode": "90001",
+            "purchaseType": 0,
+            "searchRadius": 30,
+            "tagType": 1,
+            "tradeEstimatedValue": 10000,
+            "tradeIn": true,
+            "tradeLeased": false,
+            "tradePayOff": 5000,
+            "registerZipCode": "90001",
+            "customerId": 100,
+            "car": {
+                "colorInterior1": "Black",
+                "colorExterior1": "Silver",
+                "colorInterior2": "",
+                "colorExterior2": "",
+                "hasColorPreference": true,
+                "make": "Toyota",
+                "maxYear": 2022,
+                "model": "Camry",
+                "minYear": 2018,
+                "packageOption": 2,
+                "trim": "LE",
+                "packages": [
+                    {
+                        "name": "Technology package"
+                    }
+                ]
+            }
+        },
+        {
+            "carCondition": 3,
+            "createdOn": "2023-04-13T10:30:00Z",
+            "demoOrServiceLoanerLease": false,
+            "expirationDate": "2023-05-13T10:30:00Z",
+            "financeTerm": 60,
+            "id": 3,
+            "leaseTermMin": 36,
+            "leaseTermMax": 48,
+            "maxDownPayment": 7000,
+            "maxMonthlyPayment": 500,
+            "maxPrice": 35000,
+            "milesPerYear": 12000,
+            "originZipCode": "90210",
+            "purchaseType": 1,
+            "searchRadius": 50,
+            "tagType": 2,
+            "tradeEstimatedValue": 15000,
+            "tradeIn": false,
+            "tradeLeased": true,
+            "tradePayOff": 8000,
+            "registerZipCode": "90210",
+            "customerId": 101,
+            "car": {
+                "colorInterior1": "Black",
+                "colorExterior1": "White",
+                "colorInterior2": "",
+                "colorExterior2": "",
+                "hasColorPreference": true,
+                "make": "Honda",
+                "maxYear": 2021,
+                "model": "Accord",
+                "minYear": 2019,
+                "packageOption": 1,
+                "trim": "Sport",
+                "packages": [
+                    {
+                        "name": "Sport package"
+                    }
+                ]
+            }
+        },
+        {
+            "carCondition": 1,
+            "createdOn": "2023-04-13T02:20:00Z",
+            "demoOrServiceLoanerLease": false,
+            "expirationDate": "2023-05-13T02:20:00Z",
+            "financeTerm": 12,
+            "id": 4,
+            "leaseTermMin": 24,
+            "leaseTermMax": 36,
+            "maxDownPayment": 1500,
+            "maxMonthlyPayment": 200,
+            "maxPrice": 15000,
+            "milesPerYear": 10000,
+            "originZipCode": "10001",
+            "purchaseType": 1,
+            "searchRadius": 25,
+            "tagType": 1,
+            "tradeEstimatedValue": 8000,
+            "tradeIn": false,
+            "tradeLeased": false,
+            "tradePayOff": 0,
+            "registerZipCode": "10001",
+            "customerId": 1,
+            "car": {
+                "colorInterior1": "Black",
+                "colorExterior1": "White",
+                "colorInterior2": "",
+                "colorExterior2": "",
+                "hasColorPreference": true,
+                "make": "Toyota",
+                "maxYear": 2020,
+                "model": "Camry",
+                "minYear": 2015,
+                "packageOption": 1,
+                "trim": "LE",
+                "packages": [
+                    {
+                        "name": "Convenience Package"
+                    }
+                ]
+            }
+        },
+        {
+            "carCondition": 3,
+            "createdOn": "2023-04-13T02:21:00Z",
+            "demoOrServiceLoanerLease": true,
+            "expirationDate": "2023-05-13T02:21:00Z",
+            "financeTerm": 48,
+            "id": 5,
+            "leaseTermMin": 36,
+            "leaseTermMax": 48,
+            "maxDownPayment": 3000,
+            "maxMonthlyPayment": 400,
+            "maxPrice": 25000,
+            "milesPerYear": 12000,
+            "originZipCode": "90001",
+            "purchaseType": 2,
+            "searchRadius": 50,
+            "tagType": 2,
+            "tradeEstimatedValue": 0,
+            "tradeIn": true,
+            "tradeLeased": false,
+            "tradePayOff": 0,
+            "registerZipCode": "90001",
+            "customerId": 2,
+            "car": {
+                "colorInterior1": "Black",
+                "colorExterior1": "Silver",
+                "colorInterior2": "",
+                "colorExterior2": "",
+                "hasColorPreference": false,
+                "make": "Honda",
+                "maxYear": 2021,
+                "model": "Civic",
+                "minYear": 2018,
+                "packageOption": 2,
+                "trim": "EX",
+                "packages": [
+                    {
+                        "name": "Sunroof Package"
+                    },
+                    {
+                        "name": "Navigation Package"
+                    }
+                ]
+            }
+        },
+        {
+            "carCondition": 0,
+            "createdOn": "2023-04-13T10:30:00Z",
+            "demoOrServiceLoanerLease": false,
+            "expirationDate": "2023-05-13T10:30:00Z",
+            "financeTerm": 24,
+            "id": 6,
+            "leaseTermMin": 12,
+            "leaseTermMax": 24,
+            "maxDownPayment": 2000,
+            "maxMonthlyPayment": 250,
+            "maxPrice": 15000,
+            "milesPerYear": 10000,
+            "originZipCode": "90210",
+            "purchaseType": 0,
+            "searchRadius": 25,
+            "tagType": 1,
+            "tradeEstimatedValue": 5000,
+            "tradeIn": true,
+            "tradeLeased": false,
+            "tradePayOff": 2000,
+            "registerZipCode": "90210",
+            "customerId": 0,
+            "car": {
+                "colorInterior1": "black",
+                "colorExterior1": "red",
+                "colorInterior2": "white",
+                "colorExterior2": "blue",
+                "hasColorPreference": true,
+                "make": "Toyota",
+                "maxYear": 2023,
+                "model": "Camry",
+                "minYear": 2018,
+                "packageOption": 2,
+                "trim": "LE",
+                "packages": [
+                    {
+                        "name": "Convenience Package"
+                    },
+                    {
+                        "name": "Technology Package"
+                    }
+                ]
+            }
+        },
+        {
+            "carCondition": 1,
+            "createdOn": "2023-04-13T11:00:00Z",
+            "demoOrServiceLoanerLease": true,
+            "expirationDate": "2023-05-13T11:00:00Z",
+            "financeTerm": 36,
+            "id": 7,
+            "leaseTermMin": 24,
+            "leaseTermMax": 48,
+            "maxDownPayment": 5000,
+            "maxMonthlyPayment": 400,
+            "maxPrice": 30000,
+            "milesPerYear": 15000,
+            "originZipCode": "10001",
+            "purchaseType": 1,
+            "searchRadius": 50,
+            "tagType": 2,
+            "tradeEstimatedValue": 8000,
+            "tradeIn": false,
+            "tradeLeased": true,
+            "tradePayOff": 4000,
+            "registerZipCode": "10001",
+            "customerId": 1,
+            "car": {
+                "colorInterior1": "beige",
+                "colorExterior1": "white",
+                "colorInterior2": "black",
+                "colorExterior2": "silver",
+                "hasColorPreference": false,
+                "make": "Honda",
+                "maxYear": 2022,
+                "model": "Civic",
+                "minYear": 2019,
+                "packageOption": 1,
+                "trim": "EX",
+                "packages": [
+                    {
+                        "name": "Navigation Package"
+                    }
+                ]
+            }
+        }
+    ],
+    "makes": [
+        {
+            "make": "Toyota",
+            "maxYear": 2020,
+            "minYear": 2018
+        },
+        {
+            "make": "Honda",
+            "maxYear": 2023,
+            "minYear": 2018
+        }
+    ],
+    "models": [
+        { "model": "Civic", "make": "Honda", "maxYear": 2023, "minYear": 2018 },
+        {
+            "model": "Accord",
+            "make": "Honda",
+            "maxYear": 2022,
+            "minYear": 2018
+        },
+        { "model": "CR-V", "make": "Honda", "maxYear": 2021, "minYear": 2018 },
+        {
+            "model": "Camry",
+            "make": "Toyota",
+            "maxYear": 2023,
+            "minYear": 2018
+        },
+        { "model": "Civic", "make": "Honda", "maxYear": 2023, "minYear": 2018 },
+        {
+            "model": "Accord",
+            "make": "Honda",
+            "maxYear": 2022,
+            "minYear": 2018
+        },
+        { "model": "CR-V", "make": "Honda", "maxYear": 2021, "minYear": 2018 },
+        {
+            "model": "Camry",
+            "make": "Toyota",
+            "maxYear": 2023,
+            "minYear": 2018
+        },
+        {
+            "model": "Versa",
+            "make": "Nissan",
+            "maxYear": 2021,
+            "minYear": 2018
+        }
+    ],
+    "trims": [
+        {
+            "trim": "LE",
+            "model": "Impala",
+            "make": "Chevrolet",
+            "maxYear": 2022,
+            "minYear": 2000
+        },
+        {
+            "trim": "EX",
+            "model": "Camry",
+            "make": "Toyota",
+            "maxYear": 2022,
+            "minYear": 2000
+        },
+        {
+            "trim": "Sport",
+            "model": "Civic",
+            "make": "Honda",
+            "maxYear": 2022,
+            "minYear": 2000
+        },
+        {
+            "trim": "XSE",
+            "model": "Malibu",
+            "make": "Chevrolet",
+            "maxYear": 2022,
+            "minYear": 2000
+        }
+    ]
+}
